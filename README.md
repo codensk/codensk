@@ -4,14 +4,14 @@
 // RU  :ru:
 ---
 - 👋 Привет, меня зовут Сергей Воробьев :)
-- 👀 Я занимаюсь Web разработкой
+- 👀 Я занимаюсь Backend разработкой
 - 💞️ ~~Так же ищу работу в Новосибирске~~
 - 📫 Вы можете найти меня в [telegram](https://t.me/rusbear28)
 
 // EN  :uk:
 ---
 - 👋 Hi, my name’s Sergey Vorobev
-- 👀 I’m engaged in Web development
+- 👀 I’m engaged in Backend development
 - 💞️ ~~I’m looking for hire in Novosibirsk~~
 - 📫 You can join me on [telegram](https://t.me/rusbear28)
 
