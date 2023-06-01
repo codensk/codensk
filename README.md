@@ -4,16 +4,14 @@
 // RU  :ru:
 ---
 - 👋 Привет, меня зовут Сергей Воробьев :)
-- 👀 Я занимаюсь iOS и Web разработкой
-- 🌱 У меня есть свой [пет-проект](https://apps.apple.com/ru/app/%D0%BC%D0%BE%D0%B9-%D0%B2%D0%B5%D1%81/id1588596925)
+- 👀 Я занимаюсь Web разработкой
 - 💞️ ~~Так же ищу работу в Новосибирске~~
 - 📫 Вы можете найти меня в [telegram](https://t.me/rusbear28)
 
 // EN  :uk:
 ---
 - 👋 Hi, my name’s Sergey Vorobev
-- 👀 I’m engaged in iOS and Web development
-- 🌱 I have my own [pet project](https://apps.apple.com/ru/app/%D0%BC%D0%BE%D0%B9-%D0%B2%D0%B5%D1%81/id1588596925)
+- 👀 I’m engaged in Web development
 - 💞️ ~~I’m looking for hire in Novosibirsk~~
 - 📫 You can join me on [telegram](https://t.me/rusbear28)
 
